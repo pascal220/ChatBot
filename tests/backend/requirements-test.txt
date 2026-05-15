@@ -1,0 +1,6 @@
+# Backend testing dependencies (install in addition to requirements.txt)
+pytest>=8.3.0
+pytest-asyncio>=0.23.0
+pytest-cov>=5.0.0
+httpx>=0.28.0
+aiosqlite>=0.20.0
